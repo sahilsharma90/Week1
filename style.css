@@ -19,3 +19,13 @@ th{
   text-decoration: underline;
   background-color: lightgrey;
 }
+
+.name{
+  font-weight: bold;
+  font-size: 50pt;
+}
+
+#heading{
+  background-color: red;
+  color: #fff;
+}
