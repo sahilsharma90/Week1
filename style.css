@@ -1,12 +1,21 @@
 table{
-  border: black solid 2px;
+  border: magenta solid 2px;
   border-collapse: collapse;
   height: 200px;
-  width: 400px
+  width: 50%
+}
+
+h1{
+  margin-left: 20%;
 }
 
 th, td{
   border: black solid 1px;
   text-align: center;
 
+}
+
+th{
+  text-decoration: underline;
+  background-color: lightgrey;
 }
